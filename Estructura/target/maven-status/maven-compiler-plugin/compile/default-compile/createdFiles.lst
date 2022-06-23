@@ -1,0 +1,11 @@
+com/mycompany/estructura/Instruccion.class
+com/mycompany/estructura/OperacionesEntSal.class
+com/mycompany/estructura/LRUssignment.class
+com/mycompany/estructura/Vacio.class
+com/mycompany/estructura/FIFOAssignment.class
+com/mycompany/estructura/Memoria.class
+com/mycompany/estructura/directAssignment.class
+com/mycompany/estructura/CodificacionInstrucciones.class
+com/mycompany/estructura/InstruccionesEnum.class
+com/mycompany/estructura/EjecucionInstrucciones.class
+com/mycompany/estructura/Registro.class
